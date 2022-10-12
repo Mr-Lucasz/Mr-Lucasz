@@ -50,4 +50,4 @@
           
           
 
-![Snake animation](https://github.com/Mr-Lucasz/LucasRodrigues/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mr-Lucasz/Mr-Lucasz/blob/output/github-contribution-grid-snake.svg)
