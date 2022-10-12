@@ -2,17 +2,16 @@
 
 
 
-<h2 align="center"><b>"What we know is a drop, what we don't know is an ocean" - Isaac Newton(1643-1727) </b></h2>
+<h3 align="center"><b>"What we know is a drop, what we don't know is an ocean" - Isaac Newton(1643-1727) </b></h3>
 
 ### <p>Heys Guys, I'm Lucas! &#x1F60E;</p>
 #### <p>Bachelor of Software Engineering &#x1F393;</p>  
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20STUDYING-50%&color=BLUE&style=for-the-badge)
 
 #### <p>Software Quality Analyst &#128373;</p> 
-https://img.shields.io/badge/expierence-1.6%20years-blue
+![Badge em Desenvolvimento](https://img.shields.io/badge/EXPERIENCE-1.6%20YEARS-blue)
 
-- I'm currently learning Java and Laravel
-- :coffee: I like to learn Java whenever I have time :stuck_out_tongue_winking_eye:
+> :construction: Projeto em construção :constructi
 
 <div>
 
