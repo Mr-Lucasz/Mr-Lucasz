@@ -6,10 +6,10 @@
 ### <p>Heys Guys, I'm Lucas! &#x1F60E;</p>
 ## Welcome to my GitHub profile 👋
 #### <p>Bachelor of Software Engineering &#x1F393;</p>  
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20STUDYING-50%&color=BLUE&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20STUDYING-85%&color=BLUE&style=for-the-badge)
 
 #### <p>Software Quality Analyst &#128373;</p> 
-![Badge em Desenvolvimento](https://img.shields.io/badge/EXPERIENCE-1.6%20YEARS-blue)
+![Badge em Desenvolvimento](https://img.shields.io/badge/EXPERIENCE-3.4%20YEARS-blue)
 
 > :construction: Projeto em construção :construction:
 - 🔭 Atualmente estou trabalhando como Analista de Qualidade de Software!
