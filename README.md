@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 #### <p>Software Quality Analyst &#128373;</p> 
-![Badge em Desenvolvimento](https://img.shields.io/badge/EXPERIENCE-3.4%20YEARS-blue)
+![Badge em Desenvolvimento](https://img.shields.io/badge/EXPERIENCE-4%20YEARS-blue)
 
 > :construction: Projeto em construção :construction:
 - 🔭 Atualmente estou trabalhando como Analista de Qualidade de Software!
