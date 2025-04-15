@@ -4,18 +4,18 @@
 
 ## 🎉 Welcome to my GitHub profile 👋
 #### <p>Bachelor of Software Engineering &#x1F393;</p>  
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20STUDYING-85%&color=BLUE&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20STUDYING-95%&color=BLUE&style=for-the-badge)
 
 ## 🎓 About Me
-#### <p>Software Quality Analyst &#128373;</p> 
+#### <p>Software Quality Analyst Senior &#128373;</p> 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/EXPERIENCE-4%20YEARS-blue)
 
 > :construction: Projeto em construção :construction:
-- 🔭 Atualmente estou trabalhando como Analista de Qualidade de Software!
-- 🌱 Atualmente estou aprendendo framerwoks como Automação de Testes, Java e padrões de projeto com java.
+- 🔭 Atualmente estou trabalhando como Analista de Qualidade de Software Senior!
+- 🌱 Experiencia sólifa framerwoks como Automação de Testes, Java, Javascript, Typescript e padrões de projeto.
 - 💬 Pergunte-me sobre Qualidade e Teste de Software
 - 📫 Como entrar em contato comigo: l.cunha14.lc@gmail.com ...
-- ⚡ Fun fact: (Add a fun fact about yourself here!)
+- ⚡ Fun fact: I'm Pathfinder
 
 ## Skills: Tools and Technologies
 
